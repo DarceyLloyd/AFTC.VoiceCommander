@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<xml>
+
+  <command>
+    <speech>Test 1</speech>
+    <command_sequence delayBetweenCommands="0.2">
+      <item type="run application">
+        <path>CHROME</path>
+        <params>www.gmail.com</params>
+      </item>
+      <item type="clipboard" autoPaste="1">clipboard test text 1a</item>
+      <item type="clipboard to var" var="0"/>
+      <item type="clipboard to var" var="1"/>
+      <item type="clipboard to var" var="5"/>
+      <item type="var to clipboard" var="9"/>
+      <item type="output var" var="0"/>
+      <item type="key" ctrl="0" alt="0" shift="0" useKeyCode="0" keyCode="" duration="0.1">a</item>
+      <item type="auto type" duration="0.1">Auto Type test text</item>
+      <item type="focus on application" delayBeforeFocus="0" stopIfNotFound="1"></item>
+    </command_sequence>
+  </command>
+  
+  
+  
+
+
+</xml>

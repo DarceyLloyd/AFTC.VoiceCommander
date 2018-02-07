@@ -1,0 +1,27 @@
+u:\documents\visual studio 2013\Projects\AFTC - Voice Commander\AFTC - Voice Commander\bin\Release\AFTC - Voice Commander.exe.config
+u:\documents\visual studio 2013\Projects\AFTC - Voice Commander\AFTC - Voice Commander\bin\Release\help.txt
+u:\documents\visual studio 2013\Projects\AFTC - Voice Commander\AFTC - Voice Commander\bin\Release\profiles\default.xml
+u:\documents\visual studio 2013\Projects\AFTC - Voice Commander\AFTC - Voice Commander\bin\Release\AFTC - Voice Commander.exe
+u:\documents\visual studio 2013\Projects\AFTC - Voice Commander\AFTC - Voice Commander\bin\Release\AFTC - Voice Commander.pdb
+u:\documents\visual studio 2013\Projects\AFTC - Voice Commander\AFTC - Voice Commander\obj\Release\AFTC___Voice_Commander.FormDictionaryEditor.resources
+u:\documents\visual studio 2013\Projects\AFTC - Voice Commander\AFTC - Voice Commander\obj\Release\AFTC___Voice_Commander.FormDictionaryEditorAdd.resources
+u:\documents\visual studio 2013\Projects\AFTC - Voice Commander\AFTC - Voice Commander\obj\Release\AFTC___Voice_Commander.FormDictionaryEditorEdit.resources
+u:\documents\visual studio 2013\Projects\AFTC - Voice Commander\AFTC - Voice Commander\obj\Release\AFTC___Voice_Commander.FormHelp.resources
+u:\documents\visual studio 2013\Projects\AFTC - Voice Commander\AFTC - Voice Commander\obj\Release\AFTC___Voice_Commander.FormMain.resources
+u:\documents\visual studio 2013\Projects\AFTC - Voice Commander\AFTC - Voice Commander\obj\Release\AFTC___Voice_Commander.FormCommandEditor.resources
+u:\documents\visual studio 2013\Projects\AFTC - Voice Commander\AFTC - Voice Commander\obj\Release\AFTC___Voice_Commander.FormNewClipboardCommand.resources
+u:\documents\visual studio 2013\Projects\AFTC - Voice Commander\AFTC - Voice Commander\obj\Release\AFTC___Voice_Commander.Properties.Resources.resources
+u:\documents\visual studio 2013\Projects\AFTC - Voice Commander\AFTC - Voice Commander\obj\Release\AFTC - Voice Commander.csproj.GenerateResource.Cache
+u:\documents\visual studio 2013\Projects\AFTC - Voice Commander\AFTC - Voice Commander\obj\Release\AFTC - Voice Commander.exe
+u:\documents\visual studio 2013\Projects\AFTC - Voice Commander\AFTC - Voice Commander\obj\Release\AFTC - Voice Commander.pdb
+u:\documents\visual studio 2013\Projects\AFTC - Voice Commander\AFTC - Voice Commander\obj\Release\AFTC - Voice Commander.csprojResolveAssemblyReference.cache
+u:\documents\visual studio 2013\Projects\AFTC - Voice Commander\AFTC - Voice Commander\bin\Release\DefaultDictionary.txt
+u:\documents\visual studio 2013\Projects\AFTC - Voice Commander\AFTC - Voice Commander\obj\Release\AFTC___Voice_Commander.FormNewKeyCommand.resources
+u:\documents\visual studio 2013\Projects\AFTC - Voice Commander\AFTC - Voice Commander\obj\Release\AFTC___Voice_Commander.FormNewApplicationCommand.resources
+u:\documents\visual studio 2013\Projects\AFTC - Voice Commander\AFTC - Voice Commander\obj\Release\AFTC___Voice_Commander.FormNewSequenceCommand.resources
+u:\documents\visual studio 2013\Projects\AFTC - Voice Commander\AFTC - Voice Commander\bin\Release\AFTC - Voice Commander.exe.manifest
+u:\documents\visual studio 2013\Projects\AFTC - Voice Commander\AFTC - Voice Commander\bin\Release\AFTC - Voice Commander.application
+u:\documents\visual studio 2013\Projects\AFTC - Voice Commander\AFTC - Voice Commander\obj\Release\AFTC___Voice_Commander.FormProfileSave.resources
+u:\documents\visual studio 2013\Projects\AFTC - Voice Commander\AFTC - Voice Commander\obj\Release\AFTC - Voice Commander.TrustInfo.xml
+u:\documents\visual studio 2013\Projects\AFTC - Voice Commander\AFTC - Voice Commander\obj\Release\AFTC - Voice Commander.exe.manifest
+u:\documents\visual studio 2013\Projects\AFTC - Voice Commander\AFTC - Voice Commander\obj\Release\AFTC - Voice Commander.application

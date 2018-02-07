@@ -1,0 +1,14 @@
+U:\Documents\Visual Studio 2013\Projects\AFTC_Voice_Developer\AFTC_Voice_Developer\bin\Release\AFTC_Voice_Developer.exe.config
+U:\Documents\Visual Studio 2013\Projects\AFTC_Voice_Developer\AFTC_Voice_Developer\bin\Release\profiles\default.xml
+U:\Documents\Visual Studio 2013\Projects\AFTC_Voice_Developer\AFTC_Voice_Developer\bin\Release\AFTC_Voice_Developer.exe
+U:\Documents\Visual Studio 2013\Projects\AFTC_Voice_Developer\AFTC_Voice_Developer\bin\Release\AFTC_Voice_Developer.pdb
+U:\Documents\Visual Studio 2013\Projects\AFTC_Voice_Developer\AFTC_Voice_Developer\obj\Release\AFTC_Voice_Developer.UIForm1.resources
+U:\Documents\Visual Studio 2013\Projects\AFTC_Voice_Developer\AFTC_Voice_Developer\obj\Release\AFTC_Voice_Developer.FormApplication.resources
+U:\Documents\Visual Studio 2013\Projects\AFTC_Voice_Developer\AFTC_Voice_Developer\obj\Release\AFTC_Voice_Developer.FormAutoType.resources
+U:\Documents\Visual Studio 2013\Projects\AFTC_Voice_Developer\AFTC_Voice_Developer\obj\Release\AFTC_Voice_Developer.FormClipboard.resources
+U:\Documents\Visual Studio 2013\Projects\AFTC_Voice_Developer\AFTC_Voice_Developer\obj\Release\AFTC_Voice_Developer.FormKey.resources
+U:\Documents\Visual Studio 2013\Projects\AFTC_Voice_Developer\AFTC_Voice_Developer\obj\Release\AFTC_Voice_Developer.FormNewCommand.resources
+U:\Documents\Visual Studio 2013\Projects\AFTC_Voice_Developer\AFTC_Voice_Developer\obj\Release\AFTC_Voice_Developer.Properties.Resources.resources
+U:\Documents\Visual Studio 2013\Projects\AFTC_Voice_Developer\AFTC_Voice_Developer\obj\Release\AFTC_Voice_Developer.csproj.GenerateResource.Cache
+U:\Documents\Visual Studio 2013\Projects\AFTC_Voice_Developer\AFTC_Voice_Developer\obj\Release\AFTC_Voice_Developer.exe
+U:\Documents\Visual Studio 2013\Projects\AFTC_Voice_Developer\AFTC_Voice_Developer\obj\Release\AFTC_Voice_Developer.pdb

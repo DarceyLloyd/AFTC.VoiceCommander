@@ -1,0 +1,204 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<xml>
+
+  <command>
+    <speech>test 1</speech>
+    <command_sequence delayBetweenCommands="0.2">
+      <item type="run application">
+        <path>C:\Program Files (x86)\Google\Chrome\Application\chrome.exe</path>
+        <params>www.gmail.com</params>
+      </item>
+      <item type="key" ctrl="0" alt="0" shift="0">5</item>
+      <item type="clipboard" autoPaste="1">STARTING BATCH 3</item>
+      <item type="clipboard to var" var="0"/>
+      <item type="clipboard to var" var="1"/>
+      <item type="clipboard to var" var="5"/>
+      <item type="var to clipboard" var="9"/>
+      <item type="output var" var="0"/>
+      <item type="delay" duration="2.2"/>
+      <item type="key" ctrl="0" alt="0" shift="0">a</item>
+      <item type="focus on application" delayBeforeFocus="0" stopIfNotFound="1"></item>
+    </command_sequence>
+  </command>
+
+
+  <command>
+    <speech>Open you tube</speech>
+    <command_sequence delayBetweenCommands="0.2">
+      <item type="run application">
+        <path>C:\Program Files (x86)\Google\Chrome\Application\chrome.exe</path>
+        <params>www.youtube.com</params>
+      </item>
+    </command_sequence>
+  </command>
+
+
+  <command>
+    <speech>Open g email</speech>
+    <command_sequence delayBetweenCommands="0.2">
+      <item type="run application">
+        <path>C:\Program Files (x86)\Google\Chrome\Application\chrome.exe</path>
+        <params>www.gmail.com</params>
+      </item>
+    </command_sequence>
+  </command>
+
+
+  <command>
+    <speech>Open face book</speech>
+    <command_sequence delayBetweenCommands="0.2">
+      <item type="run application">
+        <path>C:\Program Files (x86)\Google\Chrome\Application\chrome.exe</path>
+        <params>www.facebook.com</params>
+      </item>
+    </command_sequence>
+  </command>
+
+
+
+  <command>
+    <speech>Open amazon</speech>
+    <command_sequence delayBetweenCommands="0.2">
+      <item type="run application">
+        <path>C:\Program Files (x86)\Google\Chrome\Application\chrome.exe</path>
+        <params>www.amazon.co.uk</params>
+      </item>
+    </command_sequence>
+  </command>
+
+
+
+
+  <command>
+    <speech>Open calculator</speech>
+    <command_sequence delayBetweenCommands="0.2">
+      <item type="run application">
+        <path>%windir%\system32\calc.exe</path>
+        <params></params>
+      </item>
+    </command_sequence>
+  </command>
+
+
+
+  
+
+
+
+  <command>
+    <speech>type personal email</speech>
+    <command_sequence delayBetweenCommands="0.2">
+      <item type="clipboard" autoPaste="1">darcey.lloyd@gmail.com</item>
+    </command_sequence>
+  </command>
+
+
+
+  <command>
+    <speech>type work email</speech>
+    <command_sequence delayBetweenCommands="0.2">
+      <item type="clipboard" autoPaste="1">darcey@allforthecode.co.uk</item>
+    </command_sequence>
+  </command>
+
+
+
+  <command>
+    <speech>type business email</speech>
+    <command_sequence delayBetweenCommands="0.2">
+      <item type="clipboard" autoPaste="1">darcey@datandreams.com</item>
+    </command_sequence>
+  </command>
+
+
+  <command>
+    <speech>select all and delete</speech>
+    <command_sequence delayBetweenCommands="0.2">
+      <item type="key" ctrl="1" alt="0" shift="0">a</item>
+      <item type="key" ctrl="0" alt="0" shift="0">{DEL}</item>
+    </command_sequence>
+  </command>
+  <command>
+    <speech>select all delete</speech>
+    <command_sequence delayBetweenCommands="0.2">
+      <item type="key" ctrl="1" alt="0" shift="0">a</item>
+      <item type="key" ctrl="0" alt="0" shift="0">{DEL}</item>
+    </command_sequence>
+  </command>
+
+
+
+  <command>
+    <speech>new line</speech>
+    <command_sequence delayBetweenCommands="0.2">
+      <item type="key" ctrl="1" alt="0" shift="0">{ENTER}</item>
+    </command_sequence>
+  </command>
+
+
+
+  <command>
+    <speech>escape</speech>
+    <command_sequence delayBetweenCommands="0.2">
+      <item type="key" ctrl="1" alt="0" shift="0">{ESC}</item>
+    </command_sequence>
+  </command>
+
+
+
+
+
+  <command>
+    <speech>copy</speech>
+    <command_sequence delayBetweenCommands="0.2">
+      <item type="key" ctrl="1" alt="0" shift="0">c</item>
+    </command_sequence>
+  </command>
+
+
+  <command>
+    <speech>paste</speech>
+    <command_sequence delayBetweenCommands="0.2">
+      <item type="key" ctrl="1" alt="0" shift="0">v</item>
+    </command_sequence>
+  </command>
+
+
+  <command>
+    <speech>cut</speech>
+    <command_sequence delayBetweenCommands="0.2">
+      <item type="key" ctrl="1" alt="0" shift="0">x</item>
+    </command_sequence>
+  </command>
+
+
+
+  <command>
+    <speech>public string</speech>
+    <command_sequence delayBetweenCommands="0.2">
+      <item type="clipboard" autoPaste="1">public xxxx:String = "";</item>
+    </command_sequence>
+  </command>
+  <command>
+    <speech>private string</speech>
+    <command_sequence delayBetweenCommands="0.2">
+      <item type="clipboard" autoPaste="1">private xxxx:String = "";</item>
+    </command_sequence>
+  </command>
+
+
+  <command>
+    <speech>public boolean</speech>
+    <command_sequence delayBetweenCommands="0.2">
+      <item type="clipboard" autoPaste="1">public xxxx:Boolean = false;</item>
+    </command_sequence>
+  </command>
+  <command>
+    <speech>private boolean</speech>
+    <command_sequence delayBetweenCommands="0.2">
+      <item type="clipboard" autoPaste="1">private xxxx:Boolean = false = "";</item>
+    </command_sequence>
+  </command>
+  
+
+</xml>

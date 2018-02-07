@@ -1,0 +1,27 @@
+﻿Commands are being run from speech not matching the command speech you have set?
+This is an issue with the Microsoft .NET Speech Recognition library, open the AFTC Voice Commanders dictionary editor and add the spoken word or words to the list that are being recognised for your command, this will help preventing this from happening. The more dictionary speech commands you give the dictionary which resemble the word or words in your command, the more accurate the software will be. If you are still having trouble you should run the windows speech recognition software, use it to open word pad and teach it the word and / or sentence you want it to recognize (this is the process for teaching the Microsoft Speech Recognition Software your voice and how you say certain words). For more information on using Windows Speech Recognition, please type "Windows Speech Recognition" in the start menu search box and click on it.
+
+
+What does the start button do?
+This tells the program to start listening for speech commands.
+
+
+What does the stop button do?
+This tells the program to stop listening for speech commands.
+
+
+What is the minimum speech command acceptance level for?
+Each time a spoken word or sentence (command) is recognised by the Miscorot .NET speech recognition library, a confidence rating for how accurate it's prediction is given. Setting this too low may result in a lot of incorrect recognitions and command executions and setting it too high could result in your commands not being executed at all.
+
+
+What is the green bar that moves when I speak into my microphone?
+This is the volume that your microphone is recording at.
+
+
+AFTC Voice Commander doesn't use my mic or doesn't pickup my voice, why?
+You must set a default recording device in your windows recording settings. Right click on the speaker icon, in the bottom right of your screen in the windows task bar. Then choose "recording devices". Now select your microphone from the list and set it as the default device. You may need to restart your computer for AFTC Voice Commander to detect this correctly.
+
+
+
+
+For further help, please email Darcey@AllForTheCode.co.uk

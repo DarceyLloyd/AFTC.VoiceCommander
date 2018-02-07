@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<xml>
+
+  <command method="type" haltOnAppChange="0" duration="0.1">
+    <speech>actionscript add event listener</speech>
+    <window></window>
+    <type>Text to type out character by character</type>
+    <clipboard autoPaste="0"></clipboard>
+    <key ctrl="0" alt="0" shift="0"></key>
+    <application>
+      <path></path>
+      <command_string></command_string>
+    </application>
+  </command>
+
+  <command method="type" haltOnAppChange="0" duration="0.1">
+    <speech>test 1</speech>
+    <window></window>
+    <type>Text to type out character by character</type>
+    <clipboard autoPaste="0"></clipboard>
+    <key ctrl="0" alt="0" shift="0"></key>
+    <application>
+      <path></path>
+      <command_string></command_string>
+    </application>
+  </command>
+
+  <command method="clipboard" haltOnAppChange="1" duration="0.2">
+    <speech>test 2</speech>
+    <window></window>
+    <type></type>
+    <clipboard autoPaste="1">CLIPBOARD TEXT</clipboard>
+    <key ctrl="0" alt="0" shift="0"></key>
+    <application>
+      <path></path>
+      <command_string></command_string>
+    </application>
+  </command>
+
+  <command method="key" haltOnAppChange="0" duration="0.3">
+    <speech>test 3</speech>
+    <window></window>
+    <type></type>
+    <clipboard autoPaste="0"></clipboard>
+    <key ctrl="0" alt="0" shift="1">a</key>
+    <application>
+      <path></path>
+      <command_string></command_string>
+    </application>
+  </command>
+
+  <command method="key" haltOnAppChange="0" duration="0.1">
+    <speech>copy</speech>
+    <window></window>
+    <type></type>
+    <clipboard autoPaste="0"></clipboard>
+    <key ctrl="1" alt="0" shift="">c</key>
+    <application>
+      <path></path>
+      <command_string></command_string>
+    </application>
+  </command>
+
+  <command method="key" haltOnAppChange="0" duration="0.1">
+    <speech>paste</speech>
+    <window></window>
+    <type></type>
+    <clipboard autoPaste="0"></clipboard>
+    <key ctrl="1" alt="0" shift="">v</key>
+    <application>
+      <path></path>
+      <command_string></command_string>
+    </application>
+  </command>
+
+  <command method="application" haltOnAppChange="0" duration="0.1">
+    <speech>open email</speech>
+    <window></window>
+    <type></type>
+    <clipboard autoPaste="0"></clipboard>
+    <key ctrl="1" alt="0" shift=""></key>
+    <application>
+      <path><![CDATA[C:\Program Files (x86)\Google\Chrome\Application\chrome.exe]]></path>
+      <command_string><![CDATA[http://www.gmail.com]]></command_string>
+    </application>
+  </command>
+
+  <command method="application" haltOnAppChange="0" duration="0.1">
+    <speech>waste</speech>
+    <window></window>
+    <type></type>
+    <clipboard autoPaste="0"></clipboard>
+    <key ctrl="1" alt="0" shift=""></key>
+    <application>
+      <path><![CDATA[C:\Program Files (x86)\Google\Chrome\Application\chrome.exe]]></path>
+      <command_string><![CDATA[http://www.gmail.com]]></command_string>
+    </application>
+  </command>
+
+
+  <command method="application" haltOnAppChange="0" duration="0.1">
+    <speech>press enter</speech>
+    <window></window>
+    <type></type>
+    <clipboard autoPaste="0"></clipboard>
+    <key ctrl="1" alt="0" shift=""></key>
+    <application>
+      <path><![CDATA[C:\Program Files (x86)\Google\Chrome\Application\chrome.exe]]></path>
+      <command_string><![CDATA[http://www.gmail.com]]></command_string>
+    </application>
+  </command>
+
+</xml>
